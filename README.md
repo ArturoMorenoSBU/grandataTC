@@ -1,5 +1,4 @@
 # grandataTC
-# grandataTC
 
 #### Hello World! Gracias por dar un vistazo por aquí. Vamos con el desglose de este repositorio
 
